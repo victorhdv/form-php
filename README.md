@@ -2,7 +2,10 @@
 
 Criando formulario em PHP, atividade desenvolvida durante os cursos da Alura, na formação em PHP
 
-:pencil2: task realizada:
+:pencil2: tópicos abordados:
 
-•criar autoload
+•Manipulação de strings associativas;
 
+•criação de autoload;
+
+•POO.
